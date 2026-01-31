@@ -91,7 +91,7 @@ This project is set up for a dual-deployment strategy:
 
 ## 📄 License
 
-This project is open source. Feel free to use it to spread some love! ❤️
+(MIT)This project is open source. Feel free to use it to spread some love! ❤️
 
 ---
 
