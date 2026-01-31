@@ -9,10 +9,7 @@ A highly interactive, 3D Valentine's Day proposal website built with **React** a
 
 ## ✨ Features
 
-* **🎟️ 3D Interactive Ticket:** A gyro-enabled, tilt-responsive 3D admission ticket that works seamlessly on both mobile and desktop.
-* **🎵 Immersive Audio:** Background music player with smooth fade-in effects and a global mute toggle.
 * **🚫 The "Unclickable" No:** A "No" button that playfully dodges the cursor and guilt-trips the user with changing text.
-* **🎉 Confetti Celebration:** A custom canvas confetti explosion upon saying "Yes."
 * **📱 Mobile Optimized:** Features touch-safe interactions, scroll-locking, and velocity smoothing for a perfect phone experience.
 * **🐱 Interactive Avatar:** A cute SVG cat that reacts to mouse movements and emotions.
 
